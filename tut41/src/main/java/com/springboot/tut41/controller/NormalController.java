@@ -1,7 +1,8 @@
 package com.springboot.tut41.controller;
 
-import org.springframework.stereotype;
+import org.springframework.stereotype.Controller;
 
 @Controller
-public class Controller {
+public class NormalController {
+
 }
