@@ -9,9 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.springboot.tut40</groupId>
-    <artifactId>tut40</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>tut43to45</artifactId>
 
     <properties>
         <maven.compiler.source>19</maven.compiler.source>
@@ -23,10 +21,6 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
         </dependency>
     </dependencies>
 
