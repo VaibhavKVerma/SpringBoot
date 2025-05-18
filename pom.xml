@@ -21,7 +21,7 @@
     <modules>
         <module>tut41</module>
         <module>tut42</module>
-        <module>tut43to45</module>
+        <module>tut43to46</module>
     </modules>
 
     <!-- KEY-VALUE pair for configuration. Can be used as variable like ${maven.compiler.source} -->

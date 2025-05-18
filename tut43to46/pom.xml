@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>tut43to45</artifactId>
+    <artifactId>tut43to46</artifactId>
 
     <properties>
         <maven.compiler.source>19</maven.compiler.source>

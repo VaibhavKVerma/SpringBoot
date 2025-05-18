@@ -7,6 +7,10 @@ public class ComponentClass {
     private String name;
     private int age;
 
+    public ComponentClass() {
+        System.out.println("BEAN LIFECYCLE 2: Construct the Bean Lifecycle");
+    }
+
     public String getName() {
         return name;
     }
